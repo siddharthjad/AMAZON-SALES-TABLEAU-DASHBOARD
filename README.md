@@ -47,3 +47,8 @@ To explore the dashboard:
 	2.	Navigate through the different sheets and dashboards to view metrics.
 
  https://public.tableau.com/app/profile/siddharth.jadhav7792/viz/tableauproject_17472276635580/Dashboard1
+
+
+
+ ![Dashboard Screenshot](https://github.com/siddharthjad/SUPER-STORE-DASHBOARD/blob/main/Screenshot%202025-05-10%20223428.png)
+
