@@ -45,10 +45,12 @@ Usage
 To explore the dashboard:
 	1.	Open the .twbx file using Tableau Desktop Public Edition.
 	2.	Navigate through the different sheets and dashboards to view metrics.
+DIRECT LINK TO TABLEAU DASHBOARD
 
  https://public.tableau.com/app/profile/siddharth.jadhav7792/viz/tableauproject_17472276635580/Dashboard1
 
 
+DASHBOARD SCREENSHOT
 
- ![Dashboard Screenshot](https://github.com/siddharthjad/SUPER-STORE-DASHBOARD/blob/main/Screenshot%202025-05-10%20223428.png)
+ ![Dashboard Screenshot](https://github.com/siddharthjad/AMAZON-SALES-TABLEAU-DASHBOARD/blob/main/Screenshot%202025-05-14%20181426.png)
 
